@@ -32,11 +32,11 @@ Resultado: figuras 9,10,11 y 12 del TFG
 
 # Att_Calzetti.py
 
-Función de Calzetti para meter atenuación al logaritmo de la luminosidad, se basa en el cáclulo de Favole para la profundidad óptica. Necesita usar Cosmology.py y los datos de las galaxias de Millenium
+Función de Calzetti para meter atenuación al logaritmo de la luminosidad, se basa en el cálculo de Favole para la profundidad óptica. Necesita usar Cosmology.py y los datos de las galaxias de Millenium
 
 # Att_Cardelli.py
 
-Función de Cardelli para meter atenuación al logaritmo de la luminosidad, se basa en el cáclulo de Favole para la profundidad óptica. Necesita usar Cosmology.py y los datos de las galaxias de Millenium
+Función de Cardelli para meter atenuación al logaritmo de la luminosidad, se basa en el cálculo de Favole para la profundidad óptica. Necesita usar Cosmology.py y los datos de las galaxias de Millenium
 
 # Cosmology.py
 
