@@ -41,3 +41,8 @@ Función de Cardelli para meter atenuación al logaritmo de la luminosidad, se b
 # Cosmology.py
 
 Función auxiliar para definir una Cosmología. Creada por Violeta González Pérez
+
+# plot9_mejorado.py
+
+Función de luminosidad de los modelos de MultiDark con atenuación de Cardelli
+Resultado: figura 2 del TFG
